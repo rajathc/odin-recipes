@@ -1,0 +1,12 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    background-color: #EFF9F0;
+    color: #13070C;
+    border: #896A67;
+}
+.homelist {
+    list-style: none;
+    
+}
